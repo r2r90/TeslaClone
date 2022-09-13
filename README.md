@@ -1,4 +1,11 @@
-# Getting Started with Create React App and Redux
+# REACT_TESLA_CLONE
+
+🧪 technologies
+ ReactJS
+ Redux
+ Styled Components
+
+![teslaFull](https://user-images.githubusercontent.com/97596287/189899163-f5650064-cfd3-4e9a-84c4-a1ffdc098a0e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
